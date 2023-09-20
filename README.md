@@ -10,3 +10,5 @@ There are a number of different methods that can be used for credit card fraud d
 - Anomaly detection methods: These methods identify transactions that are outside of the normal range of activity.
 
 The best method for credit card fraud detection will vary depending on the specific needs of the credit card company. However, all of the methods mentioned above can be effective in preventing fraudulent transactions.
+
+### Source: Rayan Ahmed - Machine Learning Practical 6 Real World Applications
